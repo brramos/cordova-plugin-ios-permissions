@@ -1,0 +1,43 @@
+{
+  "name": "cordova-plugin-ios-permissions",
+  "version": "1.0.0",
+  "author": "Billy Ramos <billyrramos@gmail.com> (https://brramos.github.io)",
+  "description": "NSCameraUsageDescription, NSPhotoLibraryUsageDescription, NSPhotoLibraryAddUsageDescription, NSMicrophoneUsageDescription, and NSCalendarsUsageDescription in iOS 11 by adding a declaration to the Info.plist file",
+  "cordova": {
+    "id": "cordova-plugin-ios-permissions",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brramos/cordova-plugin-ios-permissions.git"
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "ios10",
+    "ios11",
+    "app",
+    "security",
+    "permissions",
+    "nscamerausagedescription",
+    "nsphotolibraryaddusagedescription",
+    "nsphotolibraryusagedescription",
+    "nsmicrophoneusagedescription",
+    "nscalendarsusagedescription",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brramos/cordova-plugin-ios-permissions/issues"
+  },
+  "homepage": "https://github.com/brramos/cordova-plugin-ios-permissions#readme"
+}
